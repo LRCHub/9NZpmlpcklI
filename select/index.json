@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Good News",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-06T22:16:22.397881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Good News",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/01_A_Little_Good_News_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Good News Week",
+      "artist": "Hedgehoppers Anonymous",
+      "has_synced": true,
+      "path": "select/02_It's_Good_News_Week_Hedgehoppers_Anonymous.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GOOD NEWS",
+      "artist": "IDK feat. Domo Genesis",
+      "has_synced": false,
+      "path": "select/03_GOOD_NEWS_IDK_feat._Domo_Genesis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GOOD NEWS (Feat. Domo Genesis)",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/04_GOOD_NEWS_(Feat._Domo_Genesis)_IDK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good News",
+      "artist": "Brad",
+      "has_synced": true,
+      "path": "select/05_Good_News_Brad.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good News ( Live )",
+      "artist": "Carmel",
+      "has_synced": false,
+      "path": "select/06_Good_News_(_Live_)_Carmel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good News",
+      "artist": "Julien Baker",
+      "has_synced": true,
+      "path": "select/07_Good_News_Julien_Baker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good News Is No News",
+      "artist": "Therapy?",
+      "has_synced": false,
+      "path": "select/08_Good_News_Is_No_News_Therapy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No News Is Good News",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/09_No_News_Is_Good_News_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good News (Ya-Ya Song)",
+      "artist": "MUNA",
+      "has_synced": true,
+      "path": "select/10_Good_News_(Ya-Ya_Song)_MUNA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good News First",
+      "artist": "Rush",
+      "has_synced": true,
+      "path": "select/11_Good_News_First_Rush.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(Ain't That) Good News",
+      "artist": "Sam Cooke",
+      "has_synced": true,
+      "path": "select/12_(Ain't_That)_Good_News_Sam_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ain't That Good News",
+      "artist": "Sam Cooke",
+      "has_synced": true,
+      "path": "select/13_Ain't_That_Good_News_Sam_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good News",
+      "artist": "10cc",
+      "has_synced": false,
+      "path": "select/14_Good_News_10cc.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good News Travels Fast",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": true,
+      "path": "select/15_Good_News_Travels_Fast_Jerry_Lee_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Country'd Look Good On You",
+      "artist": "Frank Ray",
+      "has_synced": true,
+      "path": "select/16_Country'd_Look_Good_On_You_Frank_Ray.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "GOOD TIME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/17_GOOD_TIME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth feat. Jordan Davis",
+      "has_synced": true,
+      "path": "select/18_Good_Beer_Seaforth_feat._Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth",
+      "has_synced": true,
+      "path": "select/19_Good_Beer_Seaforth.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Good Friends",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/20_Good_Friends_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/21_Good_Life_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/22_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/23_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Good Things",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/24_Good_Things_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Good With Goodbye",
+      "artist": "John Morgan",
+      "has_synced": true,
+      "path": "select/25_Good_With_Goodbye_John_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Good as Hell (feat. Ariana Grande) [Remix]",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/26_Good_as_Hell_(feat._Ariana_Grande)_[Remix]_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/27_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/28_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/29_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Rain Is A Good Thing",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/30_Rain_Is_A_Good_Thing_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Somehow You Do (From The Motion Picture Four Good Days)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/31_Somehow_You_Do_(From_The_Motion_Picture_Four_Good_Days)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Good Ones",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/32_The_Good_Ones_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good News",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_Good_News_Enfants.txt"
+    }
+  ]
+}
